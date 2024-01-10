@@ -33,4 +33,3 @@ An Xposed module to customize your WhatsApp.
 - [Download Module](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/releases/latest)
 - Install the Module and activate it in LSPosed
 - Restart WhatsApp for the changes to take effect.
-- 
