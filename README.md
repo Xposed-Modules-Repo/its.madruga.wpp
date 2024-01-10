@@ -1,4 +1,4 @@
-**Português** | [English](language/README_EN.md)
+**Português** | [English](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/blob/main/language/README_EN.md)
 
 # MdgWa
 
