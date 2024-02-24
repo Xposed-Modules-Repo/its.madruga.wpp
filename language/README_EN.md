@@ -8,20 +8,41 @@ An Xposed module to customize your WhatsApp.
 
 ### Customization
 
-- Activate new WhatsApp Theme.
-- Put seconds next to the times.
-- Add text next to times.
+|  | Status |
+| ------------- | ------------- |
+| New WhatsApp theme | ✅ |
+| New home style | ✅ |
+| New settings style | ✅ |
+| Filter chats | ✅ |
+| Buttons stroke | ✅ |
+| Menu icons | ✅ |
+| Outlined icons | ✅ |
+| Show name and bio | ✅ |
+| Seconds in time | ✅ |
+| Change color global | ✅ |
+
 
 ### Functions
 
-- View deleted messages and statuses.
-- Forward messages without the forwarded tag.
-- Hide status view.
-- Hide message view.
-- Hide status: typing.
-- Hide status: recording audio.
-- Disable view once.
-- More functions coming soon.
+|  | Status |
+| ------------- | ------------- |
+| Anti revoke message | ✅ |
+| Anti revoke status | ✅ |
+| Remove forward limit | ⚠️ BETA |
+| Download status | ⚠️ BETA |
+| Videos in high resolution | ⚠️ BETA |
+
+### Privacy
+
+|  | Status |
+| ------------- | ------------- |
+| Hide forwarding tag | ✅ |
+| Freeze last seen | ⚠️ BETA |
+| Hide status view | ❌ BUG |
+| Hide receipt | ✅ |
+| Hide typing | ✅ |
+| Hide recording | ✅ |
+| Disable view once | ✅ |
 
 ## Compatibility
 
@@ -30,7 +51,7 @@ An Xposed module to customize your WhatsApp.
 ## Use
 
 - [Installing LSPosed](https://github.com/LSPosed/LSPosed)
-- [Download Module](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/releases/latest)
+- [Download Module](https://github.com/ItsMadruga/MdgWa/releases/latest)
 - Install the Module and activate it in LSPosed
 - Restart WhatsApp for the changes to take effect.
 
