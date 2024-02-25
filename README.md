@@ -1,60 +1,60 @@
-**Português** | [English](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/blob/main/language/README_EN.md)
+ **English** | [Português](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/blob/main/language/README_PTBR.md)
 
 # MdgWa
 
-Um módulo Xposed para personalizar seu WhatsApp.
+An Xposed module to customize your WhatsApp.
 
-## Características
+## Characteristics
 
-### Personalização
-
-|  | Status |
-| ------------- | ------------- |
-| Novo estilo de cores| ✅ |
-| Novo estilo de home | ✅ |
-| Novo estilo de configurações | ✅ |
-| Filtragem de chats | ✅ |
-| Botões com bordas | ✅ |
-| Menu com ícones | ✅ |
-| ícones outlined | ✅ |
-| Mostrar nome e recado | ✅ |
-| Segundos no horário | ✅ |
-| Alterar cores globais | ✅ |
-
-
-### Funções
+### Customization
 
 |  | Status |
 | ------------- | ------------- |
-| Ver mensagens apagadas | ✅ |
-| Ver status apagados | ✅ |
-| Remover limite de encaminhamento | ⚠️ BETA |
-| Baixar status | ⚠️ BETA |
-| Videos em máxima resolução | ⚠️ BETA |
+| New WhatsApp theme | ✅ |
+| New home style | ✅ |
+| New settings style | ✅ |
+| Filter chats | ✅ |
+| Buttons stroke | ✅ |
+| Menu icons | ✅ |
+| Outlined icons | ✅ |
+| Show name and bio | ✅ |
+| Seconds in time | ✅ |
+| Change color global | ✅ |
 
-### Privacidades
+
+### Functions
 
 |  | Status |
 | ------------- | ------------- |
-| Ocultar tag de encaminhamento | ✅ |
-| Congelar visto por último | ⚠️ BETA |
-| Ocultar visualização de status | ❌ BUG |
-| Ocultar recebimento | ✅ |
-| Ocultar digitando... | ✅ |
-| Ocultar gravando... | ✅ |
-| Desabilitar visualização unica | ✅ |
+| Anti revoke message | ✅ |
+| Anti revoke status | ✅ |
+| Remove forward limit | ⚠️ BETA |
+| Download status | ⚠️ BETA |
+| Videos in high resolution | ⚠️ BETA |
 
-## Compatibilidade
+### Privacy
+
+|  | Status |
+| ------------- | ------------- |
+| Hide forwarding tag | ✅ |
+| Freeze last seen | ⚠️ BETA |
+| Hide status view | ❌ BUG |
+| Hide receipt | ✅ |
+| Hide typing | ✅ |
+| Hide recording | ✅ |
+| Disable view once | ✅ |
+
+## Compatibility
 
 - WhatsApp Beta
 
-## Uso
+## Use
 
-- [Instalação do LSPosed](https://github.com/LSPosed/LSPosed)
-- [Baixar Modulo](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/releases/latest)
-- Instale o Módulo e ative no LSPosed
-- Reinicie o WhatsApp para que as modificações entrem em vigor.
+- [Installing LSPosed](https://github.com/LSPosed/LSPosed)
+- [Download Module](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/releases/latest)
+- Install the Module and activate it in LSPosed
+- Restart WhatsApp for the changes to take effect.
 
-## Canal
+## Channel
 
 - [Telegram](https://t.me/mdgwamodule)
