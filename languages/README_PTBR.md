@@ -1,4 +1,4 @@
-[English](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/blob/main/README.md) | **Português**
+[English](../README.md) | **Português** | [Turkish](./README_TR.md)
 
 # MdgWa
 
@@ -10,16 +10,17 @@ Um módulo Xposed para personalizar seu WhatsApp.
 
 |  | Status |
 | ------------- | ------------- |
-| Novo estilo de cores| ✅ |
-| Novo estilo de home | ✅ |
+| Novo estilo de cores | ✅ |
 | Novo estilo de configurações | ✅ |
 | Filtragem de chats | ✅ |
 | Botões com bordas | ✅ |
 | Menu com ícones | ✅ |
 | ícones outlined | ✅ |
 | Mostrar nome e recado | ✅ |
+| Horario em formato AM:PM | ✅ |
 | Segundos no horário | ✅ |
 | Alterar cores globais | ✅ |
+| Separar conversas e grupos | ✅ |
 
 
 ### Funções
@@ -28,17 +29,20 @@ Um módulo Xposed para personalizar seu WhatsApp.
 | ------------- | ------------- |
 | Ver mensagens apagadas | ✅ |
 | Ver status apagados | ✅ |
-| Remover limite de encaminhamento | ⚠️ BETA |
-| Baixar status | ⚠️ BETA |
-| Videos em máxima resolução | ⚠️ BETA |
+| Baixar status | ✅ |
+| Baixar visualização unica | ✅ |
+| Videos em máxima resolução | ✅ |
+| Imagens em máxima resolução | ✅ |
 
 ### Privacidades
 
 |  | Status |
 | ------------- | ------------- |
 | Ocultar tag de encaminhamento | ✅ |
-| Congelar visto por último | ⚠️ BETA |
-| Ocultar visualização de status | ❌ BUG |
+| Remover limite de encaminhamento | ✅ |
+| Congelar visto por último | ✅ |
+| Ocultar visualização de status | ✅ |
+| Ocultar visualização de mensagem | ✅ |
 | Ocultar recebimento | ✅ |
 | Ocultar digitando... | ✅ |
 | Ocultar gravando... | ✅ |
@@ -46,12 +50,12 @@ Um módulo Xposed para personalizar seu WhatsApp.
 
 ## Compatibilidade
 
-- WhatsApp Beta
+- WhatsApp Estável
 
 ## Uso
 
 - [Instalação do LSPosed](https://github.com/LSPosed/LSPosed)
-- [Baixar Modulo](https://github.com/Xposed-Modules-Repo/its.madruga.wpp/releases/latest)
+- Baixar Modulo: [Estável](https://github.com/ItsMadruga/MdgWa/releases/latest) or [Beta](https://github.com/ItsMadruga/MdgWa/actions)
 - Instale o Módulo e ative no LSPosed
 - Reinicie o WhatsApp para que as modificações entrem em vigor.
 
